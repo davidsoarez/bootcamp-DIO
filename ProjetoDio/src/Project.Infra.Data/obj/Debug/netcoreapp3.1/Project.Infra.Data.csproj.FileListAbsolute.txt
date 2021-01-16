@@ -1,0 +1,17 @@
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.deps.json
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.dll
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.pdb
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.AssemblyInfoInputs.cache
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.AssemblyInfo.cs
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.csproj.CoreCompileInputs.cache
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.dll
+C:\workspace\bootcamps\CDDDdio\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.pdb
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.deps.json
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.dll
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\bin\Debug\netcoreapp3.1\Project.Infra.Data.pdb
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.csprojAssemblyReference.cache
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.AssemblyInfoInputs.cache
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.AssemblyInfo.cs
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.csproj.CoreCompileInputs.cache
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.dll
+C:\workspace\bootcamps\ProjetoDio\src\Project.Infra.Data\obj\Debug\netcoreapp3.1\Project.Infra.Data.pdb
